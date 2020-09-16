@@ -13,7 +13,7 @@
      * [dataset](#dataset)
 
 ## ImageCaption
-### CNN + RNN
+### CNN+RNN
 #### basic
 * [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/abs/1411.4555)
 #### including Attention
