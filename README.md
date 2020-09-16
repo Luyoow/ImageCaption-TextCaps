@@ -20,6 +20,7 @@ Papers and references related to **Image Caption** and **TextCaps**.
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)
 * [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998)
 * [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning](https://arxiv.org/abs/1612.01887)
+* [SCA-CNN: Spatial and channel-wise attention in convolutional networks for image captioning](https://arxiv.org/abs/1611.05594)
 #### including Reinforcement Learning
 * [Self-Critical Sequence Training for Image Captioning](https://arxiv.org/abs/1612.00563)
 
