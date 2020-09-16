@@ -2,18 +2,18 @@
 Papers and references related to **Image Caption** and **TextCaps**.
 ## Table of Contents
   * [ImageCaption](#imagecaption)
-     * [CNN RNN](#cnn-rnn)
+     * [using CNN and RNN](#using-cnn-and-rnn)
          * [basic](#basic)
          * [including Attention](#including-attention)
          * [including Reinforcement Learning](#including-Reinforcement-learning)
-     * [Transformer](#transfomer)
+     * [using Transformer](#using-transfomer)
     
      
   * [TextCaps](#textcaps)
      * [dataset](#dataset)
 
 ## ImageCaption
-### CNN RNN
+### using CNN and RNN
 #### basic
 * [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/abs/1411.4555)
 #### including Attention
@@ -23,7 +23,7 @@ Papers and references related to **Image Caption** and **TextCaps**.
 #### including Reinforcement Learning
 * [Self-Critical Sequence Training for Image Captioning](https://arxiv.org/abs/1612.00563)
 
-### Transformer
+### using Transformer
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [Multimodal Transformer with Multi-View Visual Representation for Image Captioning](https://arxiv.org/pdf/1905.07841.pdf)
 
