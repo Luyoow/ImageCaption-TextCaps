@@ -2,7 +2,7 @@
 
 ## Table of Contents
   * [ImageCaption](#imagecaption)
-     * [CNN + RNN](#cnn-+-rnn)
+     * [CNN RNN](#cnn-rnn)
          * [basic](#basic)
          * [including Attention](#including-attention)
          * [including Reinforcement Learning](#including-Reinforcement-learning)
@@ -13,7 +13,7 @@
      * [dataset](#dataset)
 
 ## ImageCaption
-### CNN+RNN
+### CNN RNN
 #### basic
 * [Show and Tell: A Neural Image Caption Generator](http://arxiv.org/abs/1411.4555)
 #### including Attention
