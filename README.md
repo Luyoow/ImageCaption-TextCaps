@@ -2,7 +2,7 @@
 
 ## Table of Contents
   * [ImageCaption](#imagecaption)
-     * [CNN + RNN](#cnn+rnn)
+     * [CNN + RNN](#cnn-+-rnn)
          * [basic](#basic)
          * [including Attention](#including-attention)
          * [including Reinforcement Learning](#including-Reinforcement-learning)
