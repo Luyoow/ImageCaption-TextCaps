@@ -1,5 +1,5 @@
 # ImageCaption-TextCaps
-
+Papers and references related to **Image Caption** and **TextCaps**.
 ## Table of Contents
   * [ImageCaption](#imagecaption)
      * [CNN RNN](#cnn-rnn)
