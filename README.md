@@ -6,7 +6,7 @@
          * [basic](#basic)
          * [including Attention](#including-attention)
          * [including Reinforcement Learning](#including-Reinforcement-learning)
-     * [Transformer]
+     * [Transformer](#transfomer)
     
      
   * [TextCaps](#textcaps)
